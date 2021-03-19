@@ -65,5 +65,5 @@ _#Social media Admin_
 -----------------------------------
 
 * [`My Number Whatsapp`](https://wa.me/6282156986314?text=Hai+bang)
-* [`My uumber Bot`](https://wa.me/62821554832699?text=This+is+a+bot?+:v)
+* [`My number Bot`](https://wa.me/62821554832699?text=This+is+a+bot?+:v)
 * [`NakanoBOT-Whatsapp-Noob`](https://github.com/NakanoMikuG75/NakanoBOT-Whatsapp-Noob) My project
