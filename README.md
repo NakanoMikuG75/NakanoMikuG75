@@ -16,3 +16,7 @@ NakanoMikuG75 here!
 NakanoMikuG75/NakanoMikuG75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center">
+
+  <a href="https://app.fossa.com/projects/git%2Bgithub.com%2FNakanoMikuG75%2FBocchiBot?ref=badge_large"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FNakanoMikuG75%2FBocchiBot.svg?type=large" />
